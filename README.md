@@ -42,4 +42,4 @@ Tento projekt predstavuje implementáciu systému na detekciu vizuálnych anomá
     - Zobrazenie anomálií (vľavo originál, vpravo upravený obrázok)
     - Vizualizácia pomocou PCA a t-SNE
 
-🧪 Autor: Daniil Verkhovskyi, 2025  
+🧪 Autor: Daniil Verkhovskyi
