@@ -7,8 +7,8 @@ Tento projekt predstavuje implementáciu systému na detekciu vizuálnych anomá
 
     | Súbor/Priečinok           | Popis                                                                 |
     |---------------------------|-----------------------------------------------------------------------|
-    | `prepare_images.py`       | Hlavný skript na spracovanie obrázkov, zhlukovanie a detekciu anomálií |
-    | `images/`                 | Priečinok s testovacími obrazmi                                      |
+    | `prepare_images.py`       | Hlavný skript na spracovanie obrázkov, zhlukovanie a detekciu anomálií|
+    | `images/`                 | Priečinok s testovacími obrazmi                                       |
     | `output/`                 | Výstupné výsledky, vrátane CSV a extrahovaných anomálií               |
     | `pca_clusters.csv`        | Tabuľka s výsledkami zhlukovania pre každé obrázkové dáta             |
 
